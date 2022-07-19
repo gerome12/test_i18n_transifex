@@ -4,3 +4,4 @@ git:
     file_format: STRUCTURED_JSON
     source_file: fr.json
     source_language: en
+    translation_files_expression: '<lang>/en.json'
