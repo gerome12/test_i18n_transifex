@@ -3,5 +3,4 @@ git:
   - filter_type: file
     file_format: STRUCTURED_JSON
     source_file: fr.json
-    source_language: fr
-    translation_files_expression: 'Translations/<lang>/'
+    source_language: en
