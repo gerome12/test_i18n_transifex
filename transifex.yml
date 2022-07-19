@@ -1,7 +1,7 @@
 git:
   filters:
   - filter_type: file
-    file_format: PO
-    source_file: locale/example.po
-    source_language: en
+    file_format: STRUCTURED_JSON
+    source_file: fr.json
+    source_language: fr
     translation_files_expression: 'Translations/<lang>/'
